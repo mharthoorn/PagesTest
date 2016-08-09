@@ -1,3 +1,3 @@
 # PagesTest
 
-[read](http://localhost:5000/payfor?page=https://github.com/mharthoorn/PagesTest/blob/master/read.md)
+[read](http://localhost:5000/paywall?page=https://github.com/mharthoorn/PagesTest/blob/master/read.md)
